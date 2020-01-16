@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tusoftware Weather</string>
+    <string name="location">Localización: Toledo</string>
+    <string name="pp">Probabilidad de precipitación:</string>
+    <string name="min">Mínima</string>
+    <string name="max">Máxima</string>
+</resources>
